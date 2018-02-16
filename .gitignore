@@ -21,3 +21,5 @@
 
 # Ignore package tarball (built via "mix hex.build").
 /elixir/rabbit-*.tar
+
+/elixir/*.log
